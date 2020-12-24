@@ -1,0 +1,47 @@
+.travel{
+    
+    font-style: normal;
+    font-weight: 500 bold;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(250, 246, 246), 0 0 1em rgb(228, 135, 200), 0 0 0.2em rgb(236, 236, 241);
+    text-decoration: none;
+    /* background-color: rgb(71, 57, 43); */
+    
+
+}
+
+.page{
+    
+    width: 200px;
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 42%;
+    font-size: 20px;
+    color: rgb(236, 236, 241);
+    background-color: black;
+    
+}
+
+body{
+    background-image: url(../pic2.jpg) ,url(../pic3.jfif);
+    background-repeat: no-repeat;
+    /* height: 6cm; */
+    /* width: 12cm; */
+    /* overflow: hidden; */
+    background-size: 1600px 700px;
+    background-attachment: scroll;
+}
+.not{
+    background-image: url(../pic3.jfif);
+    position: bottom;
+    background-repeat: no-repeat;
+    /* height: 6cm; */
+    /* width: 12cm; */
+    /* overflow: hidden; */
+    background-size: 1600px 700px;
+    background-attachment: scroll;
+}
+
+
+
